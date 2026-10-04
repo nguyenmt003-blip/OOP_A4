@@ -1,6 +1,9 @@
+/*
+202419010
+Nguyễn Minh Tuấn
+*/ 
 using System;
-namespace PayrollSystem
-{
+namespace PayrollSystem {
 public abstract class Employee
 {
     public string EmployeeId { get; private set; }

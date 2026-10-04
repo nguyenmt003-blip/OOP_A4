@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+202419010
+Nguyễn Minh Tuấn
+*/ 
+using System;
 
 namespace PayrollSystem
 {
